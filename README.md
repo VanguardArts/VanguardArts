@@ -1,16 +1,32 @@
-## Hi there 👋
+# Vanguard Arts
 
-<!--
-**VanguardArts/VanguardArts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent by nature. Creative without limits.**
 
-Here are some ideas to get you started:
+Vanguard Arts is an independent creative house building original work across music,
+software, graphics, and stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we make
+
+- 🎵 **Music** — original songs, recordings & releases
+- 🛠️ **Software** — open-source tools made by the house
+- 🎨 **Graphics** — graphic design & visual work
+- 📚 **Stories** — books, publications & written worlds
+- 🎻 **Violin Mafia** — strings, taught without ceremony
+- 🧩 **Glyph Codex** — the glyph alphabet, decoded
+
+## Worlds
+
+The *Ashes of Aether* universe — Nibiru, Gaia, Earth, and The Void.
+
+## Explore
+
+- 🌐 **Website** — [vanguardarts.vip](https://vanguardarts.vip/)
+- 🗂 **Projects** — [vanguardarts.vip/projects](https://vanguardarts.vip/projects/)
+- 📖 **Journal** — [vanguardarts.vip/journal](https://vanguardarts.vip/journal)
+- 🛒 **Shop** — [vanguardarts.vip/shop](https://vanguardarts.vip/shop)
+- 👋 **About** — [vanguardarts.vip/about](https://vanguardarts.vip/about)
+
+## Get in touch
+
+Licensing, collaborations, submissions & inquiries — write to us via the
+[contact form](https://vanguardarts.vip/contact).
